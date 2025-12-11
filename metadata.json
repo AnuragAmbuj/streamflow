@@ -1,0 +1,5 @@
+{
+  "name": "Streamflow Vibe",
+  "description": "A modern, high-performance Kafka interface featuring real-time metrics, message inspection, and AI-powered synthetic data generation.",
+  "requestFramePermissions": []
+}
